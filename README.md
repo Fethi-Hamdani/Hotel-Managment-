@@ -5,10 +5,13 @@ Options
 
 <img src="https://github.com/Fethi1/Hotel-Managment-/blob/master/image.png" width="800" height="600">
 
-<img src="https://github.com/Fethi1/Hotel-Managment-/blob/master/Capture11.PNG" width="800" height="600">
+<img src="https://github.com/Fethi1/Hotel-Managment-/blob/master/Capture11.PNG" width="300" height="600">
+
+
+<img src="https://github.com/Fethi1/Hotel-Managment-/blob/master/Capture1.PNG" width="800" height="600">
 
 
 <img src="https://github.com/Fethi1/Hotel-Managment-/blob/master/Capture111.PNG" width="300" height="600">
 
 
-<img src="https://github.com/Fethi1/Hotel-Managment-/blob/master/Capture123.PNG" width="400" height="700">
+<img src="https://github.com/Fethi1/Hotel-Managment-/blob/master/Capture123.PNG" width="500" height="700">
