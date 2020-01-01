@@ -3,4 +3,4 @@ A basic hotel management desktop app made with java(swing)
 
 Options
 
-<img src="https://github.com/Fethi1/Nor-el-jannah/blob/master/Screenshot_2019-09-06-15-35-52-84.png" width="250" height="390">
+<img src="https://github.com/Fethi1/Hotel-Managment-/blob/master/image.png" width="600" height="400">
